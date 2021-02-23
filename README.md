@@ -1,0 +1,1 @@
+# Dynamic-arm-Armenian-tesseract-data
